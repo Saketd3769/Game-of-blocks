@@ -9,7 +9,7 @@ class Board   //contains specifications of board
     private:
         int size; //board is of size size*size
         int* array; 
-        set<pair<int,int>>items; 
+        set<pair<int,int>>items; //have start pos of ladder/snake and their fin pos
         int player1,player2; //current pos of players
         
     public:
