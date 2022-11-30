@@ -31,3 +31,4 @@ Team Members
 [Saket Dhakar](https://github.com/Saketd3769)  
 [Anshit Arya](https://github.com/Anshit2023)   
 [Prashant Verma](https://github.com/pv54)
+Anjali Rai
